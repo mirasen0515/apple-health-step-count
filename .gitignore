@@ -1,0 +1,8 @@
+# 個人の健康データ（GitHub にアップロードしない）
+export.xml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
